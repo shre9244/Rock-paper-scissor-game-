@@ -1,5 +1,5 @@
 # Rock-paper-scissor-game-
-This is a simple **Rock Paper Scissors game** built using **HTML**, **CSS**, and **JavaScript**. It allows users to play against the computer in a fun and interactive way!
+This is a simple **Rock Paper Scissors game** built using **HTML**, **CSS**, and **JavaScript**. It allows users to play against the computer in a fun and interactive way.
 
 ## Features
 1. Play against the computer
